@@ -1,13 +1,9 @@
 <?php
 //defined('BASEPATH') OR exit('No direct script access allowed');
-//$config['appId']    = '1625043907707379';
-//$config['secret']    = '3fa846243f687413b228c07acd920454';
+//$config['appId']    = 'APPID';
+//$config['secret']    = 'API SECRET';
 ?>
-<?php
-/*defined('BASEPATH') OR exit('No direct script access allowed');
-$config['appID']    = '430127467174110';
-$config['appSecret']    = '0e0847dd6e572da5c7030dba1247948a';*/
-?>
+
 
 
 <?php
